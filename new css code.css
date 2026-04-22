@@ -15,8 +15,8 @@ body {
 
 /* IMAGE (clean + soft professional look) */
 .profile img {
-    width: 135px;
-    height: 135px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     border: 3px solid #c4b5fd; /* soft lavender */
     object-fit: cover;
