@@ -55,6 +55,7 @@ I am continuously developing my skills in **system security, network protection,
 ### 🌐 Network Security Simulation (Packet Tracer)
 Designed and simulated a secure network environment using Cisco Packet Tracer.  
 Configured routers and switches, implemented IP addressing, and tested connectivity between multiple network segments.
+Click to view :https://asi-cyberlab.github.io/Network-security-simulation/
 
 ---
 
