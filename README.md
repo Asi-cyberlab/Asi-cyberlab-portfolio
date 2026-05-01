@@ -65,14 +65,14 @@ click here to view: https://asi-cyberlab.github.io/Penetration-Testing-/
 
 ---
 
-### 📊 Security Analysis (SIEM Simulation)
+### 📊 cybersecurity-Analysis-SIEM
 Simulated threat detection and log analysis to identify suspicious activities and practice incident response workflows.
 click here to view:https://asi-cyberlab.github.io/Cybersecurity-Analysis-Lab/
 
 
 ---
 
-### 🏗️ Security Architecture Project
+### 🏗️ Advanced-security-practitioner-project
 Focused on enterprise-level security design, risk management, and secure system architecture principles.
 
 ---
