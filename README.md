@@ -67,6 +67,8 @@ click here to view: https://asi-cyberlab.github.io/Penetration-Testing-/
 
 ### 📊 Security Analysis (SIEM Simulation)
 Simulated threat detection and log analysis to identify suspicious activities and practice incident response workflows.
+click here to view:https://asi-cyberlab.github.io/Cybersecurity-Analysis-Lab/
+
 
 ---
 
