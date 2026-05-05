@@ -7,8 +7,7 @@
 ## 🧪 About Me
 
 I am a passionate Network Engineering student with a strong interest in cybersecurity, ethical hacking, and securing modern network infrastructures.
-
-Through my cyber lab (**asi-cyberlab**), I build hands-on experience by working on practical projects focused on:
+Through my cyber lab (**asi-cyberlab**) , I build hands-on experience by working on practical projects focused on:
 - 🔍 Threat Detection & Analysis  
 - 🛡️ Vulnerability Assessment  
 - 🚨 Basic Incident Response  
