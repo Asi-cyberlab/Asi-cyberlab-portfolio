@@ -72,8 +72,7 @@ click here to view:https://asi-cyberlab.github.io/Cybersecurity-Analysis-Lab/
 
 ---
 
-### 🏗️ Advanced-security-practitioner-project
-Focused on enterprise-level security design, risk management, and secure system architecture principles.
+
 
 ---
 
