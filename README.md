@@ -4,7 +4,7 @@
 
 ---
 
-## 🧪 About Me
+##  About Me
 
 I am a passionate Network Engineering student with a strong interest in cybersecurity, ethical hacking, and securing modern network infrastructures.
 Through my cyber lab (**asi-cyberlab**) , I build hands-on experience by working on practical projects focused on:
@@ -90,8 +90,3 @@ click here to view:https://asi-cyberlab.github.io/Cybersecurity-Analysis-Lab/
 
 💼 LinkedIn: www.linkedin.com/in/asikelelwe-mngoma-1611b2329  
 
----
-
-## 🔐 asi-cyberlab
-
-✨ *Building, testing, and securing systems one project at a time.*
