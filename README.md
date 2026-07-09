@@ -1,92 +1,93 @@
-# 👩🏽‍💻🔐 Asikelelwe Awonke Mngoma | asi-cyberlab
+# Hi, I'm Asikelelwe Awonke Mngoma
 
-🌐 Aspiring Network Engineer | 🔐 Ethical Hacker | 💻 Cybersecurity Enthusiast  
+**Information Technology Graduate**
 
----
-
-##  About Me
-
-I am a passionate Network Engineering student with a strong interest in cybersecurity, ethical hacking, and securing modern network infrastructures.
-Through my cyber lab (**asi-cyberlab**) , I build hands-on experience by working on practical projects focused on:
-- 🔍 Threat Detection & Analysis  
-- 🛡️ Vulnerability Assessment  
-- 🚨 Basic Incident Response  
-- 🌐 Network Security & Defense  
-
-I am continuously developing my skills in **system security, network protection, and risk mitigation**, with a goal of becoming a well-rounded cybersecurity professional.
+*IT Support | Networking | Cybersecurity*
 
 ---
 
-## 💖 Core Skills
+## 👋 About Me
 
-### 🔐 Cybersecurity
-- Threat Analysis & Detection  
-- Vulnerability Assessment  
-- Risk Assessment & Mitigation  
-- Security Monitoring (SIEM Concepts)  
-- Incident Response Fundamentals  
-- CIA Triad (Confidentiality, Integrity, Availability)  
-
-### 🌐 Network Engineering
-- TCP/IP & OSI Model  
-- IP Addressing & Subnetting  
-- Routing & Switching  
-- Network Troubleshooting  
-- Firewall & Basic Network Security  
-
-### 🛠️ Tools & Environments
-- Cisco Packet Tracer  
-- GNS3  
-- Oracle VM VirtualBox  
-
-### 💻 Programming & Scripting
-- C++ (Basic)  
-- Python (Basic)  
-- HTML & CSS  
-
-### ☁️ Cloud
-- AWS (Beginner)  
+I am an Information Technology graduate with a strong interest in IT support, networking, and cybersecurity. I enjoy building practical projects that strengthen my technical skills and showcase my continuous learning.Through **Asi-CyberLab**, I develop hands-on networking and cybersecurity labs using industry tools and virtual environments. My goal is to begin my career in IT while continuing to grow professionally.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Technical Skills
 
-### 🌐 Network Security Simulation (Packet Tracer)
-Designed and simulated a secure network environment using Cisco Packet Tracer.  
-Configured routers and switches, implemented IP addressing, and tested connectivity between multiple network segments.
-Click to view :https://asi-cyberlab.github.io/Network-security-simulation/
+**IT Support**
+- Windows Installation & Configuration
+- Basic Hardware & Software Troubleshooting
+- System Configuration
+- Basic Operating System Administration
+
+**Networking**
+- TCP/IP
+- OSI Model
+- IPv4 Addressing
+- Subnetting
+- Routing & Switching Fundamentals
+- Network Troubleshooting
+
+**Cybersecurity**
+- Security Fundamentals
+- Wireshark (Basic)
+- Vulnerability Assessment (Basic)
+- SIEM Concepts
+
+**Databases**
+- SQL
+- Oracle SQL
+- Neo4j
+
+**Programming**
+- HTML
+- CSS
+- Python (Basic)
+- C++ (Basic)
 
 ---
 
-### 🛡️ Penetration Testing Project
-Performed vulnerability scanning and basic exploitation techniques to identify potential system weaknesses and improve security posture.
-click here to view: https://asi-cyberlab.github.io/Penetration-Testing-/
+## 💻 Tools
+
+- Cisco Packet Tracer
+- GNS3
+- Wireshark
+- VirtualBox
+- Git
+- GitHub
+- Windows
+- Linux (Basic)
 
 ---
 
-### 📊 cybersecurity-Analysis-SIEM
-Simulated threat detection and log analysis to identify suspicious activities and practice incident response workflows.
-click here to view:https://asi-cyberlab.github.io/Cybersecurity-Analysis-Lab/
+## 📂 Featured Projects
 
-
----
-
-
+- **Network Security Lab** – Designed and configured a secure network using Cisco Packet Tracer.
+- **Penetration Testing Lab** – Built a virtual lab to learn vulnerability assessment techniques.
+- **Cybersecurity Analysis Lab** – Analysed security logs to gain practical exposure to security monitoring.
 
 ---
 
-## 📂 Portfolio
+## 🎓 Education
 
-🌍 View My Portfolio Website:  
-👉  https://asi-cyberlab.github.io/Asi-cyberlab-portfolio/
+**Higher Certificate in Information Technology(CYBERSECURITY)**
 
 ---
 
-## 📫 Contact Me
+## 📚 Currently Learning
 
-📧 mngomaasikelelwe@gmail.com  
-📧 awonkeasikelewe@gmail.com  
-🎓 eduv1608424@vossie.net  
+- Networking
+- Cybersecurity
+- Cloud Computing
 
-💼 LinkedIn: www.linkedin.com/in/asikelelwe-mngoma-1611b2329  
+---
 
+## 📫 Connect With Me
+
+**Email:** awonkeasikelewe@gmail.com
+
+**LinkedIn:**  
+www.linkedin.com/in/asikelelwe-mngoma-1611b2329
+
+**Portfolio:**  
+https://asi-cyberlab.github.io/Asi-cyberlab-portfolio/
