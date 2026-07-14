@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I am an Information Technology graduate with a strong interest in IT support, networking, and cybersecurity. I enjoy building practical projects that strengthen my technical skills and showcase my continuous learning.Through **Asi-CyberLab**, I develop hands-on networking and cybersecurity labs using industry tools and virtual environments. My goal is to begin my career in IT while continuing to grow professionally.
+I am an Information Technology graduate with a strong interest in IT support, networking, and cybersecurity. I enjoy building practical projects that strengthen my technical skills and showcase my continuous learning.Through Asi-CyberLab I develop hands-on networking and cybersecurity labs using industry tools and virtual environments. My goal is to begin my career in IT while continuing to grow professionally.
 
 ---
 
@@ -43,7 +43,7 @@ I am an Information Technology graduate with a strong interest in IT support, ne
 - HTML
 - CSS
 - Python (Basic)
-- C++ (Basic)
+- C++ 
 
 ---
 
