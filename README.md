@@ -70,7 +70,7 @@ I am an Information Technology graduate with a strong interest in IT support, ne
 
 ## 🎓 Education
 **Bachelor of Science in Information Technology (In Progress)**  
-**Higher Certificate in Information Technology(CYBERSECURITY)**
+**Higher Certificate in Information Technology(Cybersecurity)**
 
 ---
 
