@@ -67,7 +67,7 @@ My goal is to start my career in IT, continue learning, earn industry certificat
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### Network Security Lab
 
