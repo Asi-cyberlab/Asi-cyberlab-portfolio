@@ -96,7 +96,7 @@ Practiced analysing network traffic and security logs using Wireshark to better 
 * Networking
 * Cybersecurity
 * Cloud Computing
-* Microsoft Azure Fundamentals
+* Microsoft Azure Fundamentals(Basics)
 
 ---
 
@@ -109,13 +109,6 @@ Practiced analysing network traffic and security logs using Wireshark to better 
 
 🌐 Portfolio:
 https://asi-cyberlab.github.io/Asi-cyberlab-portfolio/
-
-
-- Networking
-- Cybersecurity
-- Cloud Computing
-
----
 
 ## 📫 Connect With Me
 
