@@ -100,13 +100,6 @@ Practiced analysing network traffic and security logs using Wireshark to better 
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: **[awonkeasikelewe@gmail.com](mailto:awonkeasikelewe@gmail.com)**
-
-💼 LinkedIn:
-[www.linkedin.com/in/asikelelwe-mngoma-1611b2329](http://www.linkedin.com/in/asikelelwe-mngoma-1611b2329)
-
 🌐 Portfolio:
 https://asi-cyberlab.github.io/Asi-cyberlab-portfolio/
 
