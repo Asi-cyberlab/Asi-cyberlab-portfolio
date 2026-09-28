@@ -14,7 +14,7 @@ My goal is to start my career in IT, continue developing my technical skills, ea
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### IT Support
 
@@ -127,7 +127,7 @@ Practiced analysing network traffic and security logs using Wireshark to better 
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science in Information Technology** *(In Progress)*
 
