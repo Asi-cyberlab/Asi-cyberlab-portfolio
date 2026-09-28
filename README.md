@@ -1,16 +1,11 @@
 # Hi, I'm Asikelelwe Mngoma
 
-### Information Technology Graduate
-
-**Interested in IT Support | Networking | Cybersecurity**
+ IT Support | Aspiring Network Engineer | Cybersecurity
 
 ## About Me
 
-I am an Information Technology graduate with an interest in IT support, networking, and cybersecurity. I enjoy learning new technologies and building practical projects that help me improve my skills.
+I am a Security and Network Engineering student with an interest in networking, IT support, and cybersecurity. I enjoy learning new technologies and building practical projects that allow me to apply my knowledge and develop hands-on skills.Through **Asi-CyberLab**, I build networking, database, and cybersecurity projects using technologies such as Cisco Packet Tracer, GNS3, VirtualBox, Oracle, MongoDB, and Neo4j.My current focus is developing my networking and IT skills while gaining practical experience through academic projects and continuous learning. My long-term goal is to build a career in network engineering and cybersecurity.
 
-Through **Asi-CyberLab**, I create networking, database, and cybersecurity projects using tools such as Cisco Packet Tracer, GNS3, VirtualBox, Oracle, MongoDB, and Neo4j. These projects allow me to apply what I learn and gain hands-on experience.
-
-My goal is to start my career in IT, continue developing my technical skills, earn industry certifications, and grow into a networking or cybersecurity role.
 
 ---
 
@@ -70,9 +65,10 @@ My goal is to start my career in IT, continue developing my technical skills, ea
 * Oracle
 * MongoDB
 * Neo4j
-* Git
 * GitHub
-* Windows
+* Windows server
+* windows operating systems
+* windows enterprise(basic)
 * Linux (Basic)
 
 ---
