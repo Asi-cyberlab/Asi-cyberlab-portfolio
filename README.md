@@ -4,7 +4,7 @@
 
 **Interested in IT Support | Networking | Cybersecurity**
 
-## 👋 About Me
+## About Me
 
 I am an Information Technology graduate with an interest in IT support, networking, and cybersecurity. I enjoy learning new technologies and building practical projects that help me improve my skills.
 
